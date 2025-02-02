@@ -14,7 +14,7 @@
 - **Version Control:** Git & GitHub  
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](linkedin.com/in/aminul-islam-m-265874137)   
+- 💼 [LinkedIn] https://www.linkedin.com/in/aminul-islam-m-265874137/   
 - ✉️ Email: iaminul363@gmail.com 
 
 🚀 Always learning, always exploring!  
